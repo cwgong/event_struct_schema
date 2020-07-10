@@ -1,0 +1,137 @@
+2019-12-11 15:45:03,201 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 18, in <module>
+    result_json = r.json()
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 15:45:26,544 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    result_json = r.json()
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 15:46:09,304 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 20, in <module>
+    result_json = r.json()
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 15:47:48,572 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    print(r.json())
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 15:51:34,333 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    print(r.json())
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 16:05:52,916 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    print(r.json())
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 16:08:41,959 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    print(r.json())
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 16:09:22,108 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    print(r.json())
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 16:10:26,951 - main - ERROR - Exception: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 19, in <module>
+    print(r.json())
+  File "C:\Program Files\Anaconda3\lib\site-packages\requests\models.py", line 885, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-12-11 17:55:08,524 - main - ERROR - Exception: 'schema'
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 25, in <module>
+    schema = result_json['schema']
+KeyError: 'schema'
+2019-12-11 17:56:49,780 - main - ERROR - Exception: 'list'
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 25, in <module>
+    list_data = result_json['list']
+KeyError: 'list'
+2019-12-11 17:57:24,407 - main - ERROR - Exception: 'type' object is not iterable
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 26, in <module>
+    for item in list:
+TypeError: 'type' object is not iterable
+2019-12-11 17:57:38,355 - main - ERROR - Exception: string indices must be integers
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/NO_1/event_struct_schema/eventengine-eventproduce-timetl/temp_test.py", line 27, in <module>
+    schema = item['schema']
+TypeError: string indices must be integers
